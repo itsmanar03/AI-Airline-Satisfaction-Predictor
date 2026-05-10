@@ -10,8 +10,8 @@
 <p>During the development phase, two powerful ensemble models were evaluated. Based on the final evaluation metrics, both models achieved exceptional performance, with <strong>Random Forest</strong> slightly leading in overall accuracy.</p>
 
 <ul>
-  <li><strong>Random Forest Performance:</strong> Accuracy 96.24% | Precision 96% | Recall 97% | F1-Score 96%</li>
-  <li><strong>XGBoost Performance:</strong> Accuracy 96.21% | Precision 96% | Recall 97% | F1-Score 96%</li>
+  <li><strong>Random Forest Performance:</strong> Accuracy 92.92% | Precision 91.98% | Recall 91.65% | F1-Score 91.81%</li>
+  <li><strong>XGBoost Performance:</strong> Accuracy 95.36% | Precision 95.52% | Recall 93.69% | F1-Score 94.60%</li>
 </ul>
 
 <blockquote>
